@@ -1,0 +1,11 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:filip-taczkowski/learn-electron.git",
+  "author": "Filip Taczkowski <filip.taczkowski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
